@@ -51,4 +51,4 @@ This portfolio includes all the following artifacts and files in the repository:
 - Journal5 : Emerging Technology and Artifact Update
 
 ## **Conclusion**
-Together, these artifacts and journals highlight my knowledge in database administration, mobile development, algorithms, and software engineering, indicating my ability to contribute to practical computer science projects. Thnak you for your time on my ePortfolio. Have a great day.
+Together, these artifacts and journals highlight my knowledge in database administration, mobile development, algorithms, and software engineering, indicating my ability to contribute to practical computer science projects. Thank you for your time on my ePortfolio. Have a great day.
