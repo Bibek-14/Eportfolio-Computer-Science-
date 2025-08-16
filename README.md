@@ -16,7 +16,7 @@ These experiences shaped my professional values of building secure, efficient, a
 ## **Portfolio Artifacts**
 This portfolio includes all the following artifacts and files in the repository:
 
-###Artifact 1: Software Design & Engineering - *Mobile Event Tracking App (CS 360)*
+###### Artifact 1: Software Design & Engineering - *Mobile Event Tracking App (CS 360)*
 - Developed in Android Studio using Java.
 - Features: Create accounts, login, add/view/delete events, and SMS reminders.
 - Skills Demonstrated:
@@ -25,7 +25,7 @@ This portfolio includes all the following artifacts and files in the repository:
     Security enhancements and error handling.
 - Reflection: Gained experience in mobile app development, frontend-backend integration, and debugging real-world issues.
  
-###Artifact 2: Algorithms & Data Structures – *Gravity Sensor App (CS 360)*
+###### Artifact 2: Algorithms & Data Structures – *Gravity Sensor App (CS 360)*
 - Developed in Android Studio using Java.
 - Features: Uses device’s gravity sensor to display real-time direction with a rotating arrow.
 - Skills Demonstrated:
@@ -34,7 +34,7 @@ This portfolio includes all the following artifacts and files in the repository:
     Activity lifecycle management and error handling.
 - Reflection: Improved problem-solving, debugging, and knowledge of how sensors interact with mobile applications.
  
-###Artifact 3: Databases – *Animal Shelter CRUD Module (CS 340)*
+###### Artifact 3: Databases – *Animal Shelter CRUD Module (CS 340)*
 - Python-based module connected to MongoDB using PyMongo.
 - Features: Create, read, update, and delete (CRUD) animal records.
 - Skills Demonstrated:
