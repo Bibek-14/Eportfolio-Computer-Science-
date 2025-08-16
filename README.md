@@ -3,7 +3,7 @@
 Greetings, welcome to my E-portfolio for CS 499 in my journey of Bachelor of Science degree in computer science at Southern New Hampshire University.  
 
 ## **Introduction**
-I am Bibek Shrestha, and I am committed student of computer science, I have a strong desire to create software that is safe, effective, and easy to use. I have gained knowledge in database management, algorithms, programming, mobile application development, security procedures and many more during my academic career. I like using technology to solve problems and always developing my skills in creating apps that satisfy practical requirements. My development, educational experiences, and technological skills acquired throughout my academic career are all reflected in this ePortfolio.
+I am Bibek Shrestha, a committed student of computer science. I have a strong desire to create software that is safe, effective, and easy to use. I have gained knowledge in database management, algorithms, programming, mobile application development, security procedures and many more during my academic career. I like using technology to solve problems and always developing my skills in creating apps that satisfy practical requirements. My development, educational experiences, and technological skills acquired throughout my academic career are all reflected in this ePortfolio.
 
 ## **Professional Self-Assessment**
 Building this ePortfolio and finalizing my computer science program have helped me showcase my abilities, polish my professional goals, and get ready to confidently enter the field. I gained technical expertise in programming, databases, software engineering, and security through my courses, in addition to critical professional abilities like communication and teamwork.
