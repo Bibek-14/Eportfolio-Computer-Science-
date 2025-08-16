@@ -50,5 +50,8 @@ This portfolio includes all the following artifacts and files in the repository:
 - Journal4 : Computer Science Trends and Artifact Update
 - Journal5 : Emerging Technology and Artifact Update
 
+## **Code Review Video**
+[Code Review, YouTube](https://youtu.be/Qx9XbfNZob4)
+
 ## **Conclusion**
 Together, these artifacts and journals highlight my knowledge in database administration, mobile development, algorithms, and software engineering, indicating my ability to contribute to practical computer science projects. Thank you for your time on my ePortfolio. Have a great day.
